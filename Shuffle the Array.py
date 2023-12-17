@@ -1,4 +1,6 @@
 """
+https://leetcode.com/problems/shuffle-the-array
+
 問題文：
 形式の 要素で構成される配列 nums があるとします。2n[x1,x2,...,xn,y1,y2,...,yn]
 配列を の形式で返します。[x1,y1,x2,y2,...,xn,yn]
